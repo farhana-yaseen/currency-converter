@@ -1,6 +1,6 @@
 {
-  "name": "currency-exchange-calculator",
-  "version": "1.0.0",
+  "name": "f_yaseen-currency-exchange-calculator",
+  "version": "1.0.1",
   "description": "This is a currency converter program",
   "main": "index.js",
   "type": "module",
